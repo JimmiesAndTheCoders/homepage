@@ -51,4 +51,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Mention any resources, libraries, or individuals that were helpful in the development of your project.
 - Inspiration, code snippets, etc.
-```
